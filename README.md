@@ -1,11 +1,11 @@
-### Hi there, welcome👋
+## Hi there, welcome👋
 
-#### Game design and development
 ![Game design and development](https://media-exp1.licdn.com/dms/image/C4D16AQGqTizl0NNzyg/profile-displaybackgroundimage-shrink_200_800/0/1635184061270?e=1640822400&v=beta&t=xbzN7HLE4Nhd1f6ArDCtQi-Z5AHQHQwTGXCKInwx_zc)
 
 I design and develop game to feel more free, because that is one of the way away from the chaos of life for me. I keep improving myself in game development.
 
-Skills: C# / Python / Unity / Unreal Engine / Maya
+### Skills
+C# / Python / Unity / Unreal Engine / Maya
 
 
 
