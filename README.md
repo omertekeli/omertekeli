@@ -33,7 +33,8 @@ Maya
 <a href="https://www.youtube.com/watch?v=me1qx8ky4zE&list=PL5zLTlaCwnmJP1VXD-uPDukaGBwvBMQZL&index=19"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
 #### Escape From The Ball
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://play.unity.com/mg/other/unitygamespublished)
-(https://github.com/omertekeli/OOP_theory)
+
+[![GitHub](icons/github.png)](https://github.com/omertekeli/OOP_theory)
 
 ## 📫 Contact Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omertekeli/)  
