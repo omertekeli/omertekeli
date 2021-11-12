@@ -5,19 +5,35 @@
 I design and develop game to feel more free, because that is one of the way away from the chaos of life for me. I keep improving myself in game development.
 
 ## 💻 Skills
-#### Proggraming Language
+<table><tr><td valign="top" width="33%">
+
+#### Language
+<div align="center">  
 <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-#### Game Engine   
+</div>
+  
+</td><td valign="top" width="33%">
+
+#### Game Engine
+<div align="center">
 Unity / Unreal Engine
-#### Design program
+</div>
+  
+</td><td valign="top" width="33%">
+
+#### Design
+<div align="center">  
 Maya
+</div>
+  
+</td></tr></table>  
 
 ## 📺 Games
 #### The TimeLine 
 <a href="https://www.youtube.com/watch?v=me1qx8ky4zE&list=PL5zLTlaCwnmJP1VXD-uPDukaGBwvBMQZL&index=19"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
 #### Escape From The Ball
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://play.unity.com/mg/other/unitygamespublished)
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white()
+(https://github.com/omertekeli/OOP_theory)
 
 ## 📫 Contact Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omertekeli/)  
