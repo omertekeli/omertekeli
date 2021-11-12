@@ -5,7 +5,9 @@
 I design and develop game to feel more free, because that is one of the way away from the chaos of life for me. I keep improving myself in game development.
 
 ### Skills
-C# / Python / Unity / Unreal Engine / Maya
+Proggraming Language: C# / Python 
+Game Engine        : Unity / Unreal Engine
+Design program     : Maya
 
 ### Games
 My first game in unity: https://play.unity.com/mg/other/unitygamespublished
