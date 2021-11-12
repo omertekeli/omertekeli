@@ -1,25 +1,25 @@
-## Hi there, welcome👋
+# Hi there, welcome👋
 
 ![Game design and development](https://media-exp1.licdn.com/dms/image/C4D16AQGqTizl0NNzyg/profile-displaybackgroundimage-shrink_200_800/0/1635184061270?e=1640822400&v=beta&t=xbzN7HLE4Nhd1f6ArDCtQi-Z5AHQHQwTGXCKInwx_zc)
 
 I design and develop game to feel more free, because that is one of the way away from the chaos of life for me. I keep improving myself in game development.
 
-### 💻 Skills
-Proggraming Language: <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+## 💻 Skills
+#### Proggraming Language
+<img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+#### Game Engine   
+Unity / Unreal Engine
+#### Design program
+Maya
 
-Game Engine        : Unity / Unreal Engine
-
-Design program     : Maya
-
-### 📺 Games
-The TimeLine: 
+## 📺 Games
+#### The TimeLine 
 <a href="https://www.youtube.com/watch?v=me1qx8ky4zE&list=PL5zLTlaCwnmJP1VXD-uPDukaGBwvBMQZL&index=19"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+#### Escape From The Ball
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://play.unity.com/mg/other/unitygamespublished)
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white()
 
-
-Escape From The Ball: https://play.unity.com/mg/other/unitygamespublished
-
-
-### 📫 Contact Me
+## 📫 Contact Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omertekeli/)  
 
 
