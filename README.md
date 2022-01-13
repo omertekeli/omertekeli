@@ -10,7 +10,7 @@ I keep improving myself in game development.
 #### The TimeLine 
 <a href="https://www.youtube.com/watch?v=me1qx8ky4zE&list=PL5zLTlaCwnmJP1VXD-uPDukaGBwvBMQZL&index=19"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
 #### Escape From The Ball
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/omertekeli/OOP_theory) [![Made with unity](https://img.shields.io/badge/CLICK-PLAY-green)](https://play.unity.com/mg/other/unitygamespublished)
+[![Github Code](https://img.shields.io/badge/See-CODE-blue)](https://github.com/omertekeli/OOP_theory) [![Made with unity](https://img.shields.io/badge/Click-PLAY-green)](https://play.unity.com/mg/other/unitygamespublished)
 
 ## 💻 Skills
 
@@ -45,4 +45,7 @@ Here are some ideas to get you started:
 https://img.shields.io/badge/LET-PLAY-green
 [![Made with unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://play.unity.com/mg/other/unitygamespublished)
 [![Made with unity](https://img.shields.io/badge/LET-PLAY-green)](https://play.unity.com/mg/other/unitygamespublished)
+Github Icon
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/omertekeli/OOP_theory)
+[![Github Code](https://img.shields.io/badge/See-Code-blue)](https://github.com/omertekeli/OOP_theory)
 -->
