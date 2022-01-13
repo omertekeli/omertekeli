@@ -8,9 +8,9 @@ I keep improving myself in game development.
 
 ## 📺 Games
 #### The TimeLine 
-<a href="https://www.youtube.com/watch?v=me1qx8ky4zE&list=PL5zLTlaCwnmJP1VXD-uPDukaGBwvBMQZL&index=19"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+[![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=me1qx8ky4zE&list=PL5zLTlaCwnmJP1VXD-uPDukaGBwvBMQZL&index=19)
 #### Escape From The Ball
-[![Github Code](https://img.shields.io/badge/See-CODE-blue)](https://github.com/omertekeli/OOP_theory) [![Made with unity](https://img.shields.io/badge/Click-PLAY-green)](https://play.unity.com/mg/other/unitygamespublished)
+[![Github Code](https://img.shields.io/badge/See-Code-blue)](https://github.com/omertekeli/OOP_theory) [![Made with unity](https://img.shields.io/badge/Play-Game-green)](https://play.unity.com/mg/other/unitygamespublished) [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.linkedin.com/posts/omertekeli_unity3d-gamedevelopment-ugcPost-6850471164414832640-wp1b)
 
 ## 💻 Skills
 
@@ -25,7 +25,7 @@ Unity / Unreal Engine / Construct3 / Maya / Blender
 
 
 ## 📫 Contact Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omertekeli/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_omertekeli) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/omertekeli) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omertekeli/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_omertekeli) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/omertekeli) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://youtube.com/channel/UCCbr3f0EWfbGMmAD3a1OM0A) 
  
 
 
@@ -44,8 +44,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 https://img.shields.io/badge/LET-PLAY-green
 [![Made with unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://play.unity.com/mg/other/unitygamespublished)
-[![Made with unity](https://img.shields.io/badge/LET-PLAY-green)](https://play.unity.com/mg/other/unitygamespublished)
+[![Made with unity](https://img.shields.io/badge/Play-Game-green)](https://play.unity.com/mg/other/unitygamespublished)
 Github Icon
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/omertekeli/OOP_theory)
 [![Github Code](https://img.shields.io/badge/See-Code-blue)](https://github.com/omertekeli/OOP_theory)
+[![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=me1qx8ky4zE&list=PL5zLTlaCwnmJP1VXD-uPDukaGBwvBMQZL&index=19)
+YOUTUBE VİDEO
+<a href="https://www.youtube.com/watch?v=me1qx8ky4zE&list=PL5zLTlaCwnmJP1VXD-uPDukaGBwvBMQZL&index=19"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
 -->
