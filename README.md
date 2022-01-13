@@ -16,14 +16,7 @@ I design and develop game to feel more free, because that is one of the way away
 
 #### Game Engine
 <div align="center">
-Unity / Unreal Engine
-</div>
-  
-</td><td valign="top" width="33%">
-
-#### Design
-<div align="center">  
-Maya
+Unity / Unreal Engine / Maya / Blender
 </div>
   
 </td></tr></table>  
