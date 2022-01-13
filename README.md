@@ -10,10 +10,11 @@ I design and develop game to feel more free, because that is one of the way away
 <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
 
 #### Technologies
-*Unity
-*Unreal Engine
-*Maya
-*Blender
+- Unity
+- Unreal Engine
+- Construct3
+- Maya
+- Blender
 
 
 ## 📺 Games
