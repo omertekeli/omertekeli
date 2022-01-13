@@ -1,6 +1,7 @@
 # Hi there, welcome👋
 
-![Game design and development](https://media-exp1.licdn.com/dms/image/C4D16AQGqTizl0NNzyg/profile-displaybackgroundimage-shrink_200_800/0/1635184061270?e=1647475200&v=beta&t=BBxW2KweA3aiSj6hwbWsfm6LMtNlVF1FLhot8DWxFU8)
+![Game design and development]
+[![Pick]](https://media-exp1.licdn.com/dms/image/C4D16AQGqTizl0NNzyg/profile-displaybackgroundimage-shrink_200_800/0/1635184061270?e=1647475200&v=beta&t=BBxW2KweA3aiSj6hwbWsfm6LMtNlVF1FLhot8DWxFU8)
 
 I design and develop game to feel more free, because that is one of the way away from the chaos of life for me. I keep improving myself in game development.
 
