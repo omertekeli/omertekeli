@@ -1,6 +1,7 @@
 # Hi there, welcome👋
 
-![Game design and development](https://media-exp1.licdn.com/dms/image/C4D16AQGqTizl0NNzyg/profile-displaybackgroundimage-shrink_200_800/0/1635184061270?e=1647475200&v=beta&t=BBxW2KweA3aiSj6hwbWsfm6LMtNlVF1FLhot8DWxFU8))
+#### Game Desing and Development
+![Game Desing and Development](https://media-exp1.licdn.com/dms/image/C4D16AQHLDv8NonbW3g/profile-displaybackgroundimage-shrink_200_800/0/1642071703687?e=1647475200&v=beta&t=5epG7H2K5B85VrKzMxa6FtudpmRZfTXjWUFQhWrWmsw)
 
 I design and develop game to feel more free, because that is one of the way away from the chaos of life for me. I keep improving myself in game development.
 
@@ -27,7 +28,9 @@ I design and develop game to feel more free, because that is one of the way away
 
 ## 📫 Contact Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omertekeli/)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/(https://github.com/omertekeli/OOP_theory))
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_omertekeli)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/omertekeli) 
 
 <!--
 **omertekeli/omertekeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
