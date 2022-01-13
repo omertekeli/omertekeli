@@ -1,25 +1,21 @@
 # Hi there, welcome👋
 
-![Game design and development](https://media-exp1.licdn.com/dms/image/C4D16AQGqTizl0NNzyg/profile-displaybackgroundimage-shrink_200_800/0/1635184061270?e=1647475200&v=beta&t=BBxW2KweA3aiSj6hwbWsfm6LMtNlVF1FLhot8DWxFU8)
+[![Game design and development](https://media-exp1.licdn.com/dms/image/C4D16AQGqTizl0NNzyg/profile-displaybackgroundimage-shrink_200_800/0/1635184061270?e=1647475200&v=beta&t=BBxW2KweA3aiSj6hwbWsfm6LMtNlVF1FLhot8DWxFU8)
 
 I design and develop game to feel more free, because that is one of the way away from the chaos of life for me. I keep improving myself in game development.
 
 ## 💻 Skills
 <table><tr><td valign="top" width="33%">
 
-#### Language
-<div align="center">  
+#### Languages 
 <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-</div>
-  
-</td><td valign="top" width="33%">
 
-#### Game Engine
-<div align="center">
-Unity / Unreal Engine / Maya / Blender
-</div>
-  
-</td></tr></table>  
+#### Technologies
+*Unity
+*Unreal Engine
+*Maya
+*Blender
+
 
 ## 📺 Games
 #### The TimeLine 
