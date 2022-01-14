@@ -13,7 +13,7 @@ TimeLine is a FPS fantasy video game. It was made in Unreal Engine by a team, an
 [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=me1qx8ky4zE&list=PL5zLTlaCwnmJP1VXD-uPDukaGBwvBMQZL&index=19)
 [![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://www.youtube.com/watch?v=me1qx8ky4zE&list=PL5zLTlaCwnmJP1VXD-uPDukaGBwvBMQZL&index=19)
 #### Elemental Ball
-Elemental ball is a 3D mobile game. It was made in Unity, as solo. It is my term project for Game Technologies Master on  Hacettepe University
+Elemental ball is a 3D mobile game. It was made in Unity, as solo. It is my term project for game technologies master on  Hacettepe University
 
 [![Github Code](https://img.shields.io/badge/See-Code-blue)](https://github.com/omertekeli/OOP_theory) [![Made with unity](https://img.shields.io/badge/Play-Game-green)](https://play.unity.com/mg/other/unitygamespublished) [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.linkedin.com/posts/omertekeli_unity3d-gamedevelopment-ugcPost-6850471164414832640-wp1b)
 #### Dead Drunk
