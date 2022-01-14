@@ -8,20 +8,20 @@ I keep improving myself in game development.
 
 ## 📺 Games
 #### The TimeLine
-The TimeLine is a FPS fantasy video game. It was made in Unreal Engine by a team, and I was responsible for game design and game development.
+TimeLine is a FPS fantasy video game. It was made in Unreal Engine by a team, and I was responsible for game design and game development.
 
 [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=me1qx8ky4zE&list=PL5zLTlaCwnmJP1VXD-uPDukaGBwvBMQZL&index=19)
 [![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://www.youtube.com/watch?v=me1qx8ky4zE&list=PL5zLTlaCwnmJP1VXD-uPDukaGBwvBMQZL&index=19)
 #### Elemental Ball
-The Elemental Ball is a 3D mobile game. It was made in Unity, as solo. It is my term project for Game Technologies Master on  Hacettepe University
+Elemental ball is a 3D mobile game. It was made in Unity, as solo. It is my term project for Game Technologies Master on  Hacettepe University
 
 [![Github Code](https://img.shields.io/badge/See-Code-blue)](https://github.com/omertekeli/OOP_theory) [![Made with unity](https://img.shields.io/badge/Play-Game-green)](https://play.unity.com/mg/other/unitygamespublished) [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.linkedin.com/posts/omertekeli_unity3d-gamedevelopment-ugcPost-6850471164414832640-wp1b)
 #### Dead Drunk
-The Dead drunk is a 3D mobile game. It was made in Unity by a team. I was responsible for game design and the development of AI, and obstacles.
+Dead drunk is a 3D mobile game. It was made in Unity by a team. I was responsible for game design and the development of AI, and obstacles.
 
 [![Github Code](https://img.shields.io/badge/See-Code-blue)](https://github.com/omertekeli/OOP_theory) [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.linkedin.com/posts/omertekeli_unity3d-gamedevelopment-ugcPost-6850471164414832640-wp1b)
 #### Escape From The Ball
-The Escape from the ball is a 3D WebGL game. It was made in Unity as solo project to complete unity jr programmer pathway.
+Escape from the ball is a 3D WebGL game. It was made in Unity as solo project to complete unity jr programmer pathway.
 
 [![Github Code](https://img.shields.io/badge/See-Code-blue)](https://github.com/omertekeli/OOP_theory) [![Made with unity](https://img.shields.io/badge/Play-Game-green)](https://play.unity.com/mg/other/unitygamespublished) [![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://www.linkedin.com/posts/omertekeli_unity3d-gamedevelopment-ugcPost-6850471164414832640-wp1b)
 
