@@ -23,7 +23,7 @@ Dead drunk is a 3D mobile game. It was made in Unity by a team. I was responsibl
 #### Escape From The Ball
 Escape from the ball is a 3D WebGL game. It was made in Unity as solo project to complete unity jr programmer pathway.
 
-[![Github Code](https://img.shields.io/badge/See-Code-blue)](https://github.com/omertekeli/OOP_theory) [![Made with unity](https://img.shields.io/badge/Play-Game-green)](https://play.unity.com/mg/other/unitygamespublished) [![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://www.linkedin.com/posts/omertekeli_unity3d-gamedevelopment-ugcPost-6850471164414832640-wp1b)
+[![Github Code](https://img.shields.io/badge/See-Code-blue)](https://github.com/omertekeli/OOP_theory/tree/main/Assets/Scripts) [![Made with unity](https://img.shields.io/badge/Play-Game-green)](https://play.unity.com/mg/other/unitygamespublished) [![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://www.linkedin.com/posts/omertekeli_unity3d-gamedevelopment-ugcPost-6850471164414832640-wp1b)
 
 ## 💻 Skills
 
