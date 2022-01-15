@@ -10,12 +10,12 @@ I keep improving myself in game development.
 #### The TimeLine
 TimeLine is a FPS fantasy video game. It was made in Unreal Engine by a team, and I was responsible for game design and game development.
 
-[![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=me1qx8ky4zE&list=PL5zLTlaCwnmJP1VXD-uPDukaGBwvBMQZL&index=19)
-[![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://www.youtube.com/watch?v=me1qx8ky4zE&list=PL5zLTlaCwnmJP1VXD-uPDukaGBwvBMQZL&index=19)
+[![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=yiwHAE7WPzE&ab_channel=%C3%96merTEKEL%C4%B0)
+[![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://www.youtube.com/watch?v=NdCwEoWfdss&t=340s&ab_channel=%C3%96merTEKEL%C4%B0)
 #### Elemental Ball
 Elemental ball is a 3D mobile game. It was made in Unity, as solo. It is my term project for game technologies master on  Hacettepe University
 
-[![Github Code](https://img.shields.io/badge/See-Code-blue)](https://github.com/omertekeli/OOP_theory) [![Made with unity](https://img.shields.io/badge/Play-Game-green)](https://play.unity.com/mg/other/unitygamespublished) [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.linkedin.com/posts/omertekeli_unity3d-gamedevelopment-ugcPost-6850471164414832640-wp1b)
+[![Github Code](https://img.shields.io/badge/See-Code-blue)](https://github.com/omertekeli/OOP_theory) [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=66Di1eaOFA4&ab_channel=%C3%96merTEKEL%C4%B0)
 #### Dead Drunk
 Dead drunk is a 3D mobile game. It was made in Unity by a team. I was responsible for game design and the development of AI, and obstacles.
 
