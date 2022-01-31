@@ -19,7 +19,7 @@ Elemental ball is a 3D mobile game. It was made in Unity, as solo. It is my term
 #### Dead Drunk
 Dead drunk is a 3D mobile game. It was made in Unity by a team. I was responsible for game design and the development of AI, and obstacles.
 
-[![Github Code](https://img.shields.io/badge/See-Code-blue)](https://github.com/omertekeli/Dead_Drunk/tree/main/Scripts) 
+[![Github Code](https://img.shields.io/badge/See-Code-blue)](https://github.com/omertekeli/Dead_Drunk/tree/main/Scripts)  [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=6X4OyhrwGjY&ab_channel=%C3%96merTEKEL%C4%B0)
 #### Escape From The Ball
 Escape from the ball is a 3D WebGL game. It was made in Unity as solo project to complete unity jr programmer pathway.
 
