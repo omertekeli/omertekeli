@@ -39,12 +39,15 @@ Unity / Unreal Engine / Construct3 / Maya / Blender
 
 
 ## 📫 Contact Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omertekeli/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_omertekeli) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/omertekeli) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://youtube.com/channel/UCCbr3f0EWfbGMmAD3a1OM0A) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omertekeli/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://youtube.com/channel/UCCbr3f0EWfbGMmAD3a1OM0A) 
  
 
 
 <!--
 **omertekeli/omertekeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/omertekeli)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_omertekeli)
 
 Here are some ideas to get you started:
 
