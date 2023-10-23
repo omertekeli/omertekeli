@@ -1,7 +1,7 @@
 # Hi there, welcome👋
 
 ### Game Design and Development
-![Game Design and Development](https://www.linkedin.com/in/omertekeli/overlay/background-image//to/img.png)
+![Game Design and Development](https://www.linkedin.com/in/omertekeli/overlay/background-image/to/img.png)
 
 I design and develop game to feel more free, because that is one of the way away from the chaos of life for me. 
 I keep improving myself in game development.
