@@ -33,9 +33,9 @@ Escape from the ball is a 3D WebGL game. It was made in Unity as solo project to
 
 #### Technologies
 ![Roblox](https://img.shields.io/badge/Roblox%20Studio-00A2FF.svg?style=for-the-badge&logo=Roblox-Studio&logoColor=white)
-
-
-
+![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)
+![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white)
+![Construct3](https://img.shields.io/badge/Construct%203-00FFDA.svg?style=for-the-badge&logo=Construct-3&logoColor=white)
 
 
 ## 📫 Contact Me
