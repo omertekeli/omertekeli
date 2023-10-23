@@ -17,6 +17,8 @@ I was responsible include:
 * Client attack,
 * Some ui and backend works daily reward, egg shop etc.
 
+[![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://youtu.be/OHs6FIFFMbA)
+
 #### Dragon Trainer Simulator
 Dragon Trainer Simulator is a simulator roblox game. 
 I was responsible include:
