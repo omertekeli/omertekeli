@@ -8,7 +8,7 @@ I keep improving myself in game development.
 
 ## 📺 Games
 #### Bakugan Brawl Simulator
-Bakugan Brawl Simulator is a simulator roblox game. 
+Bakugan Brawl Simulator is a simulator roblox game made by Mildmania and Gamefam
 I was responsible include:
 * Boss fight system which contains Damage / Attack system, Hexagon area system, Boost system
 * Auto fight system,
@@ -20,7 +20,7 @@ I was responsible include:
 [![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://youtu.be/OHs6FIFFMbA)
 
 #### Dragon Trainer Simulator
-Dragon Trainer Simulator is a simulator roblox game. 
+Dragon Trainer Simulator is a simulator roblox game developed by Mildmania. 
 I was responsible include:
 * Implementing approximately 40 skills,
 * Client skill system,
@@ -30,7 +30,7 @@ I was responsible include:
 [![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://youtu.be/ScUchMptoq0)
 
 #### Camp Bonkers
-Camp Bonkers is a roleplay roblox game. 
+Camp Bonkers is a roleplay roblox game made by Mildmania and Gamefam. 
 I was responsible include:
 * Implementing vehicles such as glider, boat, dragon, space ship etc.,
 * Pet system,
@@ -41,7 +41,7 @@ I was responsible include:
 [![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://youtu.be/0L4pJaJG00U)
 
 #### The TimeLine
-TimeLine is a FPS fantasy video game. It was made in Unreal Engine by a team, and I was responsible for game design and game development.
+TimeLine is a FPS fantasy video game. It was made in Unreal Engine by a team in my master degree, and I was responsible for game design and game development.
 [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=yiwHAE7WPzE&ab_channel=%C3%96merTEKEL%C4%B0)
 [![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://www.youtube.com/watch?v=NdCwEoWfdss&t=340s&ab_channel=%C3%96merTEKEL%C4%B0)
 
@@ -49,8 +49,8 @@ TimeLine is a FPS fantasy video game. It was made in Unreal Engine by a team, an
 Elemental ball is a 3D mobile game. It was made in Unity, as solo. It is my term project for game technologies master on  Hacettepe University
 [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=66Di1eaOFA4&ab_channel=%C3%96merTEKEL%C4%B0)
 
-#### Dead Drunk
-Dead drunk is a 3D mobile game. It was made in Unity by a team. I was responsible for game design and the development of AI, and obstacles.
+#### Dead Drunk 
+Dead drunk is a 3D mobile game. It was made in Unity by a team in my master degree. I was responsible for game design and the development of AI, and obstacles.
 [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=6X4OyhrwGjY&ab_channel=%C3%96merTEKEL%C4%B0)
 
 ## 💻 Skills
