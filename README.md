@@ -1,7 +1,7 @@
 # Hi there, welcome👋
 
 ### Game Design and Development
-([https://www.linkedin.com/in/omertekeli/overlay/background-image/to/img.png](https://media.licdn.com/dms/image/C4D16AQHLDv8NonbW3g/profile-displaybackgroundimage-shrink_350_1400/0/1642071703687?e=1703721600&v=beta&t=4F0VKFZVYUS7T1k4R7855RjsAQifEg7y9ueScyNiy5g))
+![Game Design and Development](https://media.licdn.com/dms/image/C4D16AQHLDv8NonbW3g/profile-displaybackgroundimage-shrink_350_1400/0/1642071703687?e=1703721600&v=beta&t=4F0VKFZVYUS7T1k4R7855RjsAQifEg7y9ueScyNiy5g)
 
 I design and develop game to feel more free, because that is one of the way away from the chaos of life for me. 
 I keep improving myself in game development.
