@@ -29,7 +29,7 @@ Escape from the ball is a 3D WebGL game. It was made in Unity as solo project to
 ## 💻 Skills
 
 #### Languages 
-<img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"> <img alt="Lua" src="https://img.shields.io/badge/Lua-14354C.svg?logo=lua&logoColor=white">
+<img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"> ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 #### Technologies
 Unity / Unreal Engine / Construct3 / Maya / Blender
