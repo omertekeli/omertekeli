@@ -42,15 +42,18 @@ I was responsible include:
 
 #### The TimeLine
 TimeLine is a FPS fantasy video game. It was made in Unreal Engine by a team in my master degree, and I was responsible for game design and game development.
+
 [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=yiwHAE7WPzE&ab_channel=%C3%96merTEKEL%C4%B0)
 [![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://www.youtube.com/watch?v=NdCwEoWfdss&t=340s&ab_channel=%C3%96merTEKEL%C4%B0)
 
 #### Elemental Ball
-Elemental ball is a 3D mobile game. It was made in Unity, as solo. It is my term project for game technologies master on  Hacettepe University
+Elemental ball is a 3D mobile game. It was made in Unity, as solo. It is my term project for game technologies master on  Hacettepe University.
+
 [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=66Di1eaOFA4&ab_channel=%C3%96merTEKEL%C4%B0)
 
 #### Dead Drunk 
 Dead drunk is a 3D mobile game. It was made in Unity by a team in my master degree. I was responsible for game design and the development of AI, and obstacles.
+
 [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=6X4OyhrwGjY&ab_channel=%C3%96merTEKEL%C4%B0)
 
 ## 💻 Skills
