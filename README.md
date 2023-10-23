@@ -59,7 +59,7 @@ Dead drunk is a 3D mobile game. It was made in Unity by a team in my master degr
 ## 💻 Skills
 
 #### Languages 
-<img alt="Lua" src="https://img.shields.io/badge/Lua-14354C.svg?logo=lua&logoColor=white"> <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"> 
+<img alt="Lua" src="https://img.shields.io/badge/Lua-14354C.svg?logo=lua&logoColor=white"> <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"> <img alt="Javascript" src="https://img.shields.io/badge/Javascript-14354C.svg?logo=javascript&logoColor=white">
 
 #### Technologies
 ![Roblox](https://img.shields.io/badge/Roblox%20Studio-00A2FF.svg?style=for-the-badge&logo=Roblox-Studio&logoColor=white)
