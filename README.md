@@ -11,7 +11,7 @@ I keep improving myself in game development.
 Bakugan Brawl Simulator is a simulator roblox game made by Mildmania and Gamefam.
 I was responsible include:
 
-Video 1 includes:
+✨Video 1 includes:
 [![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://youtu.be/OHs6FIFFMbA)
 * Boss fight system which contains Damage - Attack system / Hexagon area system / Boost system
 * Auto fight system,
@@ -19,7 +19,7 @@ Video 1 includes:
 * Client attack,
 * Some ui and backend works daily reward, egg shop etc.
   
-Video 2 includes:
+✨Video 2 includes:
 [![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://youtu.be/OHs6FIFFMbA)
 * Quest system / Quest track system / Quest Dialogue System
 * Tower season and market system,
