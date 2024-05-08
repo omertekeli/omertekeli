@@ -27,6 +27,7 @@ I was responsible include:
 * Enhanced Auto fight system,
 * Collection system (Collect to get a reward),
 * Coin-Diamond Collectible system,
+* Player level system,
 * Passive stats manager (Daily boosts, item boosts etc.),
 
 #### Dragon Trainer Simulator
