@@ -1,15 +1,16 @@
 # Hi there, welcome👋
 
 ### Game Design and Development
-![Game Design and Development](https://media.licdn.com/dms/image/C4D16AQHLDv8NonbW3g/profile-displaybackgroundimage-shrink_350_1400/0/1642071703687?e=1703721600&v=beta&t=4F0VKFZVYUS7T1k4R7855RjsAQifEg7y9ueScyNiy5g)
+![Game Design and Development]([https://media.licdn.com/dms/image/C4D16AQHLDv8NonbW3g/profile-displaybackgroundimage-shrink_350_1400/0/1642071703687?e=1703721600&v=beta&t=4F0VKFZVYUS7T1k4R7855RjsAQifEg7y9ueScyNiy5g](https://media.licdn.com/dms/image/C4D16AQHLDv8NonbW3g/profile-displaybackgroundimage-shrink_350_1400/0/1642071704351?e=1720656000&v=beta&t=rB5jwoUPticSCTTrKsjAJrFhQgP263SMuTSP_3pGFhA))
 
 I design and develop game to feel more free, because that is one of the way away from the chaos of life for me. 
 I keep improving myself in game development.
 
 ## 📺 Games
 #### Bakugan Brawl Simulator
-Bakugan Brawl Simulator is a simulator roblox game made by Mildmania and Gamefam
+Bakugan Brawl Simulator is a simulator roblox game made by Mildmania and Gamefam.
 I was responsible include:
+* Quest system,
 * Boss fight system which contains Damage / Attack system, Hexagon area system, Boost system
 * Auto fight system,
 * Teleport system,
