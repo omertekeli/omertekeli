@@ -24,6 +24,7 @@ I was responsible include:
 * Quest system / Quest track system / Quest Dialogue System
 * Tower season and market system,
 * Jobs and job shop system,
+* Enhanced Auto fight system,
 * Collection system (Collect to get a reward),
 * Coin-Diamond Collectible system,
 * Passive stats manager (Daily boosts, item boosts etc.),
