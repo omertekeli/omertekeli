@@ -10,16 +10,23 @@ I keep improving myself in game development.
 #### Bakugan Brawl Simulator
 Bakugan Brawl Simulator is a simulator roblox game made by Mildmania and Gamefam.
 I was responsible include:
-* Quest system,
-* Tower season and market system,
-* Boss fight system which contains Damage / Attack system, Hexagon area system, Boost system
+
+Video 1 includes:
+[![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://youtu.be/OHs6FIFFMbA)
+* Boss fight system which contains Damage - Attack system / Hexagon area system / Boost system
 * Auto fight system,
 * Teleport system,
-* Passive stats manager,
 * Client attack,
 * Some ui and backend works daily reward, egg shop etc.
-
+  
+Video 2 includes:
 [![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://youtu.be/OHs6FIFFMbA)
+* Quest system / Quest track system / Quest Dialogue System
+* Tower season and market system,
+* Jobs and job shop system,
+* Collection system (Collect to get a reward),
+* Coin-Diamond Collectible system,
+* Passive stats manager (Daily boosts, item boosts etc.),
 
 #### Dragon Trainer Simulator
 Dragon Trainer Simulator is a simulator roblox game developed by Mildmania. 
