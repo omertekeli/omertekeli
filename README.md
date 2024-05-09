@@ -20,7 +20,7 @@ I was responsible include:
 * Some ui and backend works daily reward, egg shop etc.
   
 ✨Video 2 includes:
-[![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://youtu.be/OHs6FIFFMbA)
+[![Github Code](https://img.shields.io/badge/Watch-Gameplay-red)](https://youtu.be/H98HtsFe1y8)
 * Quest system / Quest track system / Quest Dialogue System
 * Tower season and market system,
 * Jobs and job shop system,
