@@ -9,7 +9,7 @@ I keep improving myself in game development.
 ## 📺 Games
 #### Lucky Fight
 Lucky Fight is a Roblox game, I made for LP Games.
-I was responsible for everything expect modeling UI and 3D models. 
+I was responsible for everything except modeling UI and 3D models. 
 I have worked as indie game developer. Some of my works:
 * Rank based PvP matchmaker system,
 * Fight and Skill System,
