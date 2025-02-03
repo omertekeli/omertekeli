@@ -7,6 +7,22 @@ I design and develop game to feel more free, because that is one of the way away
 I keep improving myself in game development.
 
 ## 📺 Games
+#### Lucky Fight
+Lucky Fight is a Roblox game, I made for LP Games.
+I was responsible for everything expect modeling UI and 3D models. 
+I have worked as indie game developer. Some of my works:
+* Rank based PvP matchmaker system,
+* Fight and Skill System,
+* Tutorial,
+* Daily PvP Rewards System,
+* Postbox System,
+* Weapon and Armor Inventories
+* All animations in game,
+* Game design which includes onboarding and FTUE
+* Creating game economy tools and analytic events,
+
+[![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://youtu.be/i_SW7Q0e0gM)
+
 #### Bakugan Brawl Simulator
 Bakugan Brawl Simulator is a simulator roblox game made by Mildmania and Gamefam.
 I was responsible include:
