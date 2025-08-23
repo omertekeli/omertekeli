@@ -6,6 +6,24 @@
 I design and develop game to feel more free, because that is one of the way away from the chaos of life for me. 
 I keep improving myself in game development.
 
+## 💻 Skills
+
+#### Languages 
+<img alt="Lua" src="https://img.shields.io/badge/Lua-14354C.svg?logo=lua&logoColor=white"> <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"> <img alt="Javascript" src="https://img.shields.io/badge/Javascript-14354C.svg?logo=Javascript&logoColor=yellow">
+
+#### Technologies
+![Roblox](https://img.shields.io/badge/Roblox%20Studio-00A2FF.svg?style=for-the-badge&logo=Roblox-Studio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)
+![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white)
+![Construct3](https://img.shields.io/badge/Construct%203-00FFDA.svg?style=for-the-badge&logo=Construct-3&logoColor=white)
+
+
+## 📫 Contact Me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omertekeli/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://youtube.com/channel/UCCbr3f0EWfbGMmAD3a1OM0A) 
+ 
+
+
+<!--
 ## 📺 Games
 #### Lucky Fight
 Lucky Fight is a Roblox game, I made for LP Games.
@@ -83,24 +101,6 @@ Dead drunk is a 3D mobile game. It was made in Unity by a team in my master degr
 
 [![Github Code](https://img.shields.io/badge/Watch-Trailer-red)](https://www.youtube.com/watch?v=6X4OyhrwGjY&ab_channel=%C3%96merTEKEL%C4%B0)
 
-## 💻 Skills
-
-#### Languages 
-<img alt="Lua" src="https://img.shields.io/badge/Lua-14354C.svg?logo=lua&logoColor=white"> <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"> <img alt="Javascript" src="https://img.shields.io/badge/Javascript-14354C.svg?logo=Javascript&logoColor=yellow">
-
-#### Technologies
-![Roblox](https://img.shields.io/badge/Roblox%20Studio-00A2FF.svg?style=for-the-badge&logo=Roblox-Studio&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)
-![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white)
-![Construct3](https://img.shields.io/badge/Construct%203-00FFDA.svg?style=for-the-badge&logo=Construct-3&logoColor=white)
-
-
-## 📫 Contact Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omertekeli/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://youtube.com/channel/UCCbr3f0EWfbGMmAD3a1OM0A) 
- 
-
-
-<!--
 **omertekeli/omertekeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/omertekeli)
